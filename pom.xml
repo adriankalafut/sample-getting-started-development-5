@@ -101,11 +101,6 @@
                     </systemPropertyVariables>
                 </configuration>
             </plugin>
-            <plugin>
-              <groupId>io.slsa.maven.plugin</groupId>
-              <artifactId>slsa-maven-plugin</artifactId>
-              <version>52.0</version>
-            </plugin>
         </plugins>
     </build>
 </project>
